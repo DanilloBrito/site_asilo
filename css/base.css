@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --cor-principal: #5b2a86;
+  --cor-texto: #222222;
+  --cor-fundo: #ffffff;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  color: var(--cor-texto);
+  background: var(--cor-fundo);
+  line-height: 1.6;
+}
